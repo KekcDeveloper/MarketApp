@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MarketApp/MarketApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Scanner/Scanner.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MarketUI/MarketUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MarketBL/MarketBL.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MarketModel/MarketModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MarketDA/MarketDA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MarketUT/MarketUT.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
